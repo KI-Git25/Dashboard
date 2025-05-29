@@ -1,0 +1,8 @@
+/venv/*
+basededatos.csv
+Sample_Data_for_Plotting_and_Filtering.csv
+sellers.xlsx
+app.py
+demo.py
+main.py
+TestingStreamlit.py
